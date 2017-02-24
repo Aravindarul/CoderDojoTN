@@ -2,3 +2,7 @@ header{
   box-shadow: 5px 5px #dddddd;
   background-color:#000000;
 }
+#headerImg{
+  width:60px;
+  height:25px;
+}

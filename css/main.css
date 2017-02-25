@@ -1,6 +1,6 @@
 header,footer{
   box-shadow: 2px 2px #eeeeee;
-  background-color:#000000;
+  background-color:#222222;
 } 
 #headerImg{
   width:120px;
@@ -12,6 +12,7 @@ header,footer{
   height:100px;
 }
 #footimg{
+  margin: auto;
   width:250px;
   height:250px;
 }

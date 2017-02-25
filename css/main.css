@@ -1,6 +1,7 @@
 header,footer{
   box-shadow: 2px 2px #eeeeee;
   background-color:#222222;
+  color:#222222;
 } 
 #headerImg{
   width:120px;
@@ -22,6 +23,7 @@ header,footer{
     -ms-transform: rotate(270deg);
     -o-transform: rotate(270deg);
     transform: rotate(270deg);
+}
+footer:hover{
   color:#ffffff;
 }
-  

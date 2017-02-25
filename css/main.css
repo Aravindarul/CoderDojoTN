@@ -24,6 +24,6 @@ header,footer{
     -o-transform: rotate(270deg);
     transform: rotate(270deg);
 }
-footer,header:hover{
+footer:hover,header:hover{
   color:#ffffff;
 }

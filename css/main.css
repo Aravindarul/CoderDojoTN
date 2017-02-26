@@ -32,6 +32,6 @@ footer:hover,header:hover{
     background-repeat: repeat;
     border-radius:10px;
 }
-.server-action-menu:hover {
-    background-color:#ffffff;
+#serverhover:hover{
+    background:#ffffff;
 }

@@ -28,7 +28,7 @@ footer:hover,header:hover{
   color:#ffffff;
 }
 .server-action-menu {
-    background-image: linear-gradient(to bottom, #636160 0%, #ffffff 100%), url("images/coderdojo.jpg");
+    background-image: url("images/coderdojo.jpg");
     background-repeat: repeat;
     border-radius:10px;
 }

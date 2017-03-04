@@ -1,3 +1,6 @@
+body{
+  padding:5px 5px 5px 5px;
+}
 header,footer{
   box-shadow: 2px 2px #eeeeee;
   background-color:#222222;
@@ -31,6 +34,11 @@ footer:hover,header:hover{
     background-image: linear-gradient(to bottom, #636160 0%, #ffffff 100%);;
     background-repeat: repeat;
     border-radius:10px;
+    
+}
+.smim{
+	width:100px;
+	height:100px;
 }
 #serverhover:hover{
     background:#ffffff;

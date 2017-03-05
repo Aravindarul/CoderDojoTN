@@ -46,3 +46,6 @@ button{
 a{
   color:white;
 }
+#map {
+        height: 100%;
+      }
